@@ -2,4 +2,4 @@
 
 レベル|最後更新|タイトル|アーティスト|差分|動画|コメント 
 -----|-------|--------|-----------|----|----|-------
-☆9| ---|Get Wild '98 "2nd DX"|cranky|---|---|縦連、連皿
+☆9| ---|[Get Wild '98 "2nd DX"](https://onedrive.live.com/?authkey=%21ACjBvE94dWk8AWM&id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9)|cranky|---|---|縦連、連皿
