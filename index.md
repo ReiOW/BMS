@@ -9,4 +9,4 @@
 ★12？| 2021/01/07| [NS20 [7key Scratch practice]](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=63)|3034|[DL](https://github.com/ReiOW/BMS/blob/gh-pages/3034_NS20.zip?raw=true)||連皿+α練習
 ★7~★8|2021/01/07|[code-beta](https://nkiankw.net/kemobeats/)|いんぐれ|[DL](https://github.com/ReiOW/BMS/blob/gh-pages/%5Btok%5Dcodeb_wav.zip?raw=true)||テクノ譜面
 ★5~★6|2021/02/23|[La souvenir[L'Amnesie]](http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=133)|しーけー|[DL](https://github.com/ReiOW/BMS/blob/gh-pages/La_souvenir.zip?raw=true)||(v1.0.2)物量、乱打、二重階段＋α
-★???|2021/02/23|[Posterior Probability "[P(FC|BM)=??]"](https://venue.bmssearch.net/bmsshuin3/87)|Idesia|[DL](https://github.com/ReiOW/BMS/blob/gh-pages/pp_ogg_sb.zip?raw=true)||局所高密度
+★???|2021/02/23|[Posterior Probability](https://venue.bmssearch.net/bmsshuin3/87)|Idesia|[DL](https://github.com/ReiOW/BMS/blob/gh-pages/pp_ogg_sb.zip?raw=true)||局所高密度
